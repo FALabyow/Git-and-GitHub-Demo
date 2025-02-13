@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This my first commit in feature 1");
+            Console.WriteLine("This my first commit in this account");
         }
     }
 }
